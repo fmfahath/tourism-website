@@ -1,5 +1,5 @@
 import { Component } from "react";
-import "../components/navbar-styles.css"
+import "./navbar-styles.css"
 import { menuItems } from "./menu-items";
 
 
@@ -16,7 +16,7 @@ class Navbar extends Component {
                     {menuItems.map((item, index) => {
                         return (
                             <li key={index}>
-                                <a href={item.url}><i className={item.icon}></i>{item.title}</a>
+                                <a className={item.clsName} href={item.url}><i className={item.icon}></i>{item.title}</a>
                             </li>
                         )
                     })}
@@ -25,5 +25,5 @@ class Navbar extends Component {
         )
     }
 }
-
+ 
 export default Navbar;
