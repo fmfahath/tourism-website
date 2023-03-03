@@ -42,3 +42,23 @@
     border-radius: 4px;
     transition: all 0.2s ease-in-out;
 }
+
+.nav-links-mobile{
+    display: none;
+}
+
+.signUp-btn{
+    padding: 0.5rem 1rem;
+    white-space: nowrap;
+    border-radius: 0.3rem;
+    font-size: 1rem;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.signUp-btn:hover{
+    color: #fff;
+    background-color: #151516;
+}
