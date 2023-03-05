@@ -12,6 +12,10 @@ class Navbar extends Component {
         return (
             <nav className="navbar-items">
                 <h1 className="navbar-logo">Trippy</h1>
+                <div className="menu-icon">
+                    <i className="fas fa-bars"></i>
+                    <i className="fas fa-times"></i>
+                </div>
                 <ul className="nav-menu">
                     {menuItems.map((item, index) => {
                         return (
@@ -26,5 +30,5 @@ class Navbar extends Component {
         )
     }
 }
- 
+
 export default Navbar;
