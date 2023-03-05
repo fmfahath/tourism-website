@@ -11,6 +11,9 @@ function Home(){
                 heroImg = "https://images.unsplash.com/photo-1501696461415-6bd6660c6742?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
                 title = "YourJourny, Your Storey"
                 text = "Choose Your Favourite dstination"
+                url="/"
+                buttonClass="show"
+                buttonText="Travel Plan"
             />
         </React.Fragment>
     )

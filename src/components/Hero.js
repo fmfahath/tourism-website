@@ -9,7 +9,7 @@ function Hero(props){
                 <div className="hero-text"></div>
                 <h1>{props.title}</h1>
                 <p>{props.text}</p>
-                <a href="/">Travel Plan</a>
+                <a href={props.url} className={props.buttonClass}>{props.buttonText}</a>
             </div>
         </React.Fragment>
     )
