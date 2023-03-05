@@ -1,15 +1,16 @@
 import React from "react";
 import './Hero-styles.css'
 
-function Hero(props){
-    return(
+function Hero(props) {
+    return (
         <React.Fragment>
             <div className={props.cName}>
-                <img alt='hero-img' src={props.heroImg}></img>
-                <div className="hero-text"></div>
-                <h1>{props.title}</h1>
-                <p>{props.text}</p>
-                <a href={props.url} className={props.buttonClass}>{props.buttonText}</a>
+                <img alt='hero-img' src={props.heroImg}/>
+                <div className="hero-text">
+                    <h1>{props.title}</h1>
+                    <p>{props.text}</p>
+                    <a href={props.url} className={props.buttonClass}>{props.buttonText}</a>
+                </div>
             </div>
         </React.Fragment>
     )
