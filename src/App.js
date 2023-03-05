@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import {Route, Routes } from "react-router-dom";
 import Navbar from "./components/navbar";
 import Home from "./routes/Home";
 import About from "./routes/About";
@@ -18,8 +18,6 @@ function App() {
         <Route path="/services" element={<Services/>} />
         <Route path="/contact" element={<Contact/>} />
       </Routes>
-    
-      <Navbar />
 
     </div>
   );
