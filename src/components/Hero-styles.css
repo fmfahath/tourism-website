@@ -4,11 +4,24 @@
     position: relative;
 }
 
+.hero-mid{
+    width: 100vw;
+    height: 70vh;
+    position: relative;
+}
+
 img{
     width: 100vw;
     height: 100vh;
     object-fit: cover;
 }
+
+.hero-mid img{
+    width: 100vw;
+    height: 70vh;
+    position: relative;
+}
+
 
 .hero-text{
     position: absolute;
