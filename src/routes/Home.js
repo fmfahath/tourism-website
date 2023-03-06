@@ -1,4 +1,5 @@
 import React from "react";
+import Destination from "../components/Destination";
 import Hero from "../components/Hero";
 import Navbar from "../components/navbar";
 
@@ -15,6 +16,7 @@ function Home(){
                 buttonClass="show"
                 buttonText="Travel Plan"
             />
+            <Destination/>
         </React.Fragment>
     )
 }
