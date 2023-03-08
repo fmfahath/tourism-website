@@ -3,6 +3,7 @@ import Destination from "../components/Destination";
 import Hero from "../components/Hero";
 import Navbar from "../components/navbar";
 import HeroImage from "../assets/12.jpg"
+import Trip from "../components/Trip";
 
 function Home(){
     return(
@@ -18,6 +19,7 @@ function Home(){
                 buttonText="Travel Plan"
             />
             <Destination/>
+            <Trip/>
         </React.Fragment>
     )
 }

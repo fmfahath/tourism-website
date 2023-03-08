@@ -1,6 +1,6 @@
 import "./Trip-styles.css"
 
-function TripData(){
+function TripData(props){
     return(
         <div className="t-card">
             <div className="t-image">
