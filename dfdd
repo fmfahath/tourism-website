@@ -1,0 +1,42 @@
+[33mbe6f977[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m TripData.js renderd in Trip.js using props
+[33m647e69d[m TripData.js component's props assigned
+[33m6a4757d[m Trip.js , TripData.js, Trip-styles.css component added
+[33mec30bc8[m Hero imge changed
+[33m5c7f1f9[m DestinationData.js displays in reversed style / reverse styled added in destination-styles.css
+[33m9cd51b6[m DestinationData.js rendered on destination.js using props
+[33m9019432[m DestinationData.js rendered on destination.js
+[33m76a012f[m DestinationData.js, DestinationData-styles.css components created
+[33me1012cd[m Description.js media query added
+[33mf955423[m Description.js styled / positioned
+[33mc8fbcf6[m Description.js component added
+[33m09aeab8[m Contact.js & Services.js hero sections completed
+[33m2e75e2d[m About.js hero section completed
+[33mb16abe2[m Home.js hero section completed
+[33maf04084[m Hero.js props added
+[33m111880f[m render Hero.js to Home.js using props
+[33m720c441[m Hero.js text/ img added
+[33m2a0b3ff[m Hero.js / Hero-styles.css created / rendered
+[33m9af33bb[m assest folder added
+[33m470a50a[m <Navbar/> element removed from App.js component  &   moved into Route componens
+[33mba458b1[m Bug fixed: remove strict mode in index.js / use <a> tag intead of <link> tag in navbar.js
+[33m6791256[m Merge branch 'main' of https://github.com/fmfahath/tourism-website
+[33me35ceb4[m change <a> tag into <link> / add 'to' attribute to link on navbar.js
+[33m34239ec[m change <a> tag into <link> / add 'to' attribute to link
+[33m4e0da5d[m Routes, route added in App.js
+[33m84048b2[m div added to App.js component
+[33m822c9f8[m react-router-dom installled
+[33me1df815[m routes components added / Home.js, About.js, Contat.js, Services.js added
+[33m1a61df9[m navbar media query - pahse 4 (transition / border-radious / cursor poiner added)
+[33mdae1695[m navbar media query - pahse 3 (fixing navbar floting position)
+[33maecb219[m navbar media query - pase 2 (z-index added / menu list in small screen / hide menu bar icon in full screen)
+[33m6353ca6[m navbar media query - pase 1
+[33ma304b4b[m added state /  function for nabar menu icon open & cose
+[33mbb5c1f5[m navbar menu icon & close icon added
+[33m747213a[m signup display hided / new sign up button added / css added
+[33m5cd4e7d[m navbar css added
+[33mc065b1a[m menu-items.js component exported/imported / rentered in navbar.js component
+[33m5f24fe8[m menu-items.js component added
+[33m82aebcc[m navbarlist  item added / fontawesom CDN added / navbar.js exported & rendered
+[33m64d0525[m navbar.js / navbar-styles.css components created / imported
+[33mbb5a036[m initial commit : dev envi created
+[33m267ab71[m Initialize project using Create React App
