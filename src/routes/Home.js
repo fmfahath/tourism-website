@@ -4,6 +4,7 @@ import Hero from "../components/Hero";
 import Navbar from "../components/navbar";
 import HeroImage from "../assets/12.jpg"
 import Trip from "../components/Trip";
+import Footer from "../components/Footer";
 
 function Home(){
     return(
@@ -20,6 +21,7 @@ function Home(){
             />
             <Destination/>
             <Trip/>
+            <Footer/>
         </React.Fragment>
     )
 }

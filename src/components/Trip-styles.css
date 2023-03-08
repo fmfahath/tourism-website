@@ -50,13 +50,11 @@
     .trip{
         margin: 2rem 3rem;
     }
-
-    
+ 
     .trip h1{
         font-size: 2.5rem;
     }
 
-    
     .tripcard{
        display: flex;
        flex-direction: column;
