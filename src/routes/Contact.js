@@ -3,6 +3,7 @@ import Navbar from "../components/navbar";
 import Hero from "../components/Hero";
 import Footer from "../components/Footer"
 import ContactImg from "../assets/2.jpg"
+import ContactForm from "../components/ContactForm";
 
 function Contact(){
     return(
@@ -17,6 +18,7 @@ function Contact(){
                 buttonClass=""
                 buttonText=""
             />
+            <ContactForm/>
             <Footer/>
         </React.Fragment>
     )
