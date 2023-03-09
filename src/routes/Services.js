@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "../components/navbar";
 import Hero from "../components/Hero";
+import Footer from "../components/Footer"
 import ServicesImg from "../assets/3.jpg"
 
 function Services(){
@@ -16,6 +17,7 @@ function Services(){
                 buttonClass=""
                 buttonText=""
             />
+            <Footer />
         </React.Fragment>
     )
 }

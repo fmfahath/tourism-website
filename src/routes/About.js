@@ -2,6 +2,7 @@ import React from "react";
 import Hero from "../components/Hero";
 import Navbar from "../components/navbar";
 import AboutImg from "../assets/night.jpg" //creating variable for the hero image
+import Footer from "../components/Footer"
 
 function About(){
     return(
@@ -16,6 +17,7 @@ function About(){
                 buttonClass=""
                 buttonText=""
             />
+          <Footer/>
         </React.Fragment>
     )
 }
