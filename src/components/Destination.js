@@ -3,7 +3,7 @@ import DestinationData from "./DestinationData"
 import Image1 from "../assets/1.jpg"
 import Image2 from "../assets/2.jpg"
 import Image3 from "../assets/3.jpg"
-import Image4 from "../assets/5.jpg"
+import Image4 from "../assets/13.jpg"
 
 
 const Destination = () => {
@@ -14,7 +14,7 @@ const Destination = () => {
 
             <DestinationData
                 className="first-des"
-                heading="Taal Volcano, Batangas"
+                heading="Burj-Khalifa"
                 text="Taal, located in the Philippines, is part of a caldera system in southern Luzon Island. Recorded eruptions 
                 date back to 3,580 BCE. The caldera is 15 x 20 km and contains Lake Taal, which has a depth of 160 m, and 
                 an island that also contains a lake within the Main Crater. Eruptive activity during 1-9 July 2021 was 
@@ -28,7 +28,7 @@ const Destination = () => {
 
             <DestinationData
                 className="first-des-reverse"
-                heading="Eiffel Tower, Paris"
+                heading="Burj-Al-Arab"
                 text="Eiffel Tower, French Tour Eiffel, Parisian landmark that is also a technological masterpiece in 
                 building-construction history. When the French government was organizing the International Exposition 
                 of 1889 to celebrate the centenary of the French Revolution, a competition was held for designs for a 
