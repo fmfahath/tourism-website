@@ -3,6 +3,7 @@ import Hero from "../components/Hero";
 import Navbar from "../components/navbar";
 import AboutImg from "../assets/night.jpg" //creating variable for the hero image
 import Footer from "../components/Footer"
+import AboutUs from "../components/AboutUs";
 
 function About(){
     return(
@@ -17,7 +18,8 @@ function About(){
                 buttonClass=""
                 buttonText=""
             />
-          <Footer/>
+            <AboutUs/>
+            <Footer/>
         </React.Fragment>
     )
 }
