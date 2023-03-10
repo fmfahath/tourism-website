@@ -24,7 +24,14 @@
 }
 
 .navbar-logo a{
-    color: #01959a;
+    /* color: #01959a; */
+    color: #7a3b2e;
+    text-decoration: none;
+}
+
+.navbar-logo a:hover{
+    /* color: #01959a; */
+    color: #7e4a35;
     text-decoration: none;
 }
 
@@ -50,7 +57,8 @@
 }
 
 .nav-links:hover{
-    background-color: #01959a;
+    /* background-color: #01959a; */
+    background-color: #4f3222;
     color: #ffff;
     border-radius: 4px;
     transition: all 0.2s ease-in-out;
@@ -64,7 +72,8 @@
     padding: 0.5rem 1rem;
     white-space: nowrap;
     color: #fff;
-    background-color: #01959a;
+    /* background-color: #01959a; */
+    background-color: #4f3222;
     border-radius: 0.3rem;
     font-size: 1rem;
     font-weight: 600;
@@ -75,7 +84,7 @@
 
 .signUp-btn:hover{
     color: #fff;
-    background-color: #151516;
+    background-color: #222;
 }
 
 .menu-icon{
@@ -144,7 +153,7 @@
        padding: 1rem;
        margin: auto;
        color: #fff;
-       background-color: #01959a;
+       background-color: #4f3222;
        width: 60%;
        border-radius: 10px;
 

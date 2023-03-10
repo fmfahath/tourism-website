@@ -21,7 +21,7 @@
 }
 
 .top i:hover{
-    color: #01959a;
+    color: #8d4119;
     font-size: 3rem;
 }
 
@@ -31,7 +31,7 @@
 }
 
 .top div h1 a:hover{
-    color: #01959a;
+    color: #8d4119;
     text-decoration: none;
 }
 
@@ -61,7 +61,7 @@
 }
 
 .bottom a:hover{
-    color: #01959a;
+    color: #8d4119;
 }
 
 @media screen and (max-width: 900px){

@@ -5,7 +5,7 @@ function Hero(props) {
     return (
         <React.Fragment>
             <div className={props.cName}>
-                <img alt='hero-img' src={props.heroImg}/>
+                <img className="hero-img" alt='hero-img' src={props.heroImg}/>
                 <div className="hero-text">
                     <h1>{props.title}</h1>
                     <p>{props.text}</p>
