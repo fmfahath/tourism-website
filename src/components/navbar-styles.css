@@ -17,10 +17,16 @@
 }
 
 .navbar-logo{
-    color: #222;
+    color: #01959a;
     font-size: 2rem;
     cursor: pointer;
+    text-align: center;
 }
+
+/* .navbar-logo span{
+    color: #5c2a01;
+    font-size: 2rem;
+} */
 
 .nav-menu{
     display: grid;
@@ -57,6 +63,8 @@
 .signUp-btn{
     padding: 0.5rem 1rem;
     white-space: nowrap;
+    color: #fff;
+    background-color: #01959a;
     border-radius: 0.3rem;
     font-size: 1rem;
     font-weight: 600;

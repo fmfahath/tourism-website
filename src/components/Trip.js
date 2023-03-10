@@ -14,21 +14,21 @@ function Trip(){
             <div className="tripcard">
                 <TripData
                     image={Image1}
-                    heading="Trip in Indonesia"
+                    heading="The Ring - Future of The Museum"
                     text="Measured from east to west, the Indonesian archipelago covers a distance similar to 
                     New York to Los Angeles, and with over 17,000 islands, Indonesia is a whole world waiting to be explored.
                     Planning a trip to Indonesia is enough to make any globetrotter green with envy, but it can also be a little daunting."
                 />
                 <TripData
                     image={Image2}
-                    heading="Trip in Saudi Arabia"
+                    heading="Desert Safary"
                     text="Measured from east to west, the Indonesian archipelago covers a distance similar to 
                     New York to Los Angeles, and with over 17,000 islands, Indonesia is a whole world waiting to be explored.
                     Planning a trip to Indonesia is enough to make any globetrotter green with envy, but it can also be a little daunting."
                 />
                 <TripData
                     image={Image3}
-                    heading="Trip in Venice"
+                    heading="Burj-Al-Arab"
                     text="Measured from east to west, the Indonesian archipelago covers a distance similar to 
                     New York to Los Angeles, and with over 17,000 islands, Indonesia is a whole world waiting to be explored.
                     Planning a trip to Indonesia is enough to make any globetrotter green with envy, but it can also be a little daunting."

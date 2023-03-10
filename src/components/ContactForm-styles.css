@@ -1,6 +1,7 @@
 .form-container{
     margin: 4rem 6rem;
     color: #2a2a2a;
+    text-align: center;
 }
 .form-container{
     margin: 4rem 6rem;
@@ -35,7 +36,16 @@
     margin: auto;
     padding: 1rem 3rem;
     border-radius: 10px;
+    color: #fff;
+    background-color: #01959a;
+    letter-spacing: 2px;
+    font-weight: 400;
     border: none;
     font-size: 1rem;
     font-weight: 700;
+}
+
+.form-container button:hover{
+    color: #fff;
+    background-color: #2a2a2a;
 }

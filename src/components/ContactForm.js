@@ -3,6 +3,7 @@ import "./ContactForm-styles.css"
 function ContactForm(){
     return(
         <div className="form-container">
+            <h2>Send us a Message!</h2>
            <form>
                 <input placeholder="Name"/>
                 <input placeholder="Email"/>
