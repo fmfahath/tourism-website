@@ -17,10 +17,12 @@
     color: #fff;
     font-size: 2rem;
     margin-left: 1rem;
+    transition: 0.1s all ease-in-out;
 }
 
 .top i:hover{
     color: #01959a;
+    font-size: 3rem;
 }
 
 .bottom{
