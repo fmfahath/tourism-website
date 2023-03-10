@@ -60,6 +60,10 @@
     font-size: 1.1rem;
 }
 
+.bottom a:hover{
+    color: #01959a;
+}
+
 @media screen and (max-width: 900px){
     .footer{
         padding: 4rem 2rem;
