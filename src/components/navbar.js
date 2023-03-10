@@ -21,7 +21,7 @@ class Navbar extends Component {
     render() {
         return (
             <nav className="navbar-items">
-                <h1 className="navbar-logo">Trippy</h1>
+                <h1 className="navbar-logo"><a href="/">Trippy</a></h1>
                 <div className="menu-icon" onClick={this.handleClick}>
                     <i className={this.state.clicked ? "fas fa-times" : "fas fa-bars"}></i>
                 </div>

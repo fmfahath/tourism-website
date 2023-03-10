@@ -17,16 +17,16 @@
 }
 
 .navbar-logo{
-    color: #01959a;
     font-size: 2rem;
     cursor: pointer;
     text-align: center;
+    text-decoration: none;
 }
 
-/* .navbar-logo span{
-    color: #5c2a01;
-    font-size: 2rem;
-} */
+.navbar-logo a{
+    color: #01959a;
+    text-decoration: none;
+}
 
 .nav-menu{
     display: grid;

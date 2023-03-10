@@ -25,6 +25,16 @@
     font-size: 3rem;
 }
 
+.top div h1 a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.top div h1 a:hover{
+    color: #01959a;
+    text-decoration: none;
+}
+
 .bottom{
     padding-top: 2rem;
     text-align: start;
