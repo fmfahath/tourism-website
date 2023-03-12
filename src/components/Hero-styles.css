@@ -59,14 +59,14 @@
 
 
 .hero-text .show{
-    color: white !important;
-    background-color: #4f3222;
+    color: #8d4119 !important;
+    background-color: #fff;
     text-decoration: none;
     padding: 1rem 1.5rem;
     border: 1px solid #8d4119;
-    border-radius: 5px;
+    border-radius: 40px;
     font-size: 1.2rem;
-    font-weight: 600;
+    font-weight: 800;
     letter-spacing: 2px;
     color: #222;
 }
